@@ -1,0 +1,7 @@
+{
+  "name": "del",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
